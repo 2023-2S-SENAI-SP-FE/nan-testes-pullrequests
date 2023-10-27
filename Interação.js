@@ -1,0 +1,5 @@
+function Interacao (){
+
+let funciona;
+
+}
